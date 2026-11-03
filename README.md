@@ -1,3 +1,5 @@
+![Vaidehi's Profile Banner](profile-banner.png)
+
 # Vaidehi
 
 *B.Tech Undergraduate · Computer Science & Information Technology*
